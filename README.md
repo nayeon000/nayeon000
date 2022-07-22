@@ -21,7 +21,7 @@
 ### 😄 Studying  <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 📧 Contact <br>
+### 💌 Contact <br>
 ![Gmail](https://img.shields.io/badge/na98729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
