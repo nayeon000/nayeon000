@@ -1,5 +1,9 @@
 ### Hi there, I'm Na Yeon 👋
-### 🌱퍼블릿🌱
+### 🌱🌱
+###🔨Skils🔨
+Language :
+Tools
+
 <!--
 **nayeon000/nayeon000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
