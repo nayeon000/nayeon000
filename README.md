@@ -9,6 +9,7 @@
 
 ### 🙋🏻‍♀️ About Me <br>
 <ul>
+<li>Web Publisher</li>
 <li>Graduate from Myongji Univ.</li>
 </ul>
 
