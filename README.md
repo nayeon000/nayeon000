@@ -1,5 +1,5 @@
 ###  Hi there, I'm Na Yeon 👋
-### 🌱 Web Publisher
+### 🌱 Web Publisher 🌱
 ### 🔨 Skils<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -9,14 +9,14 @@
 
 ### 🙋🏻‍♀️ About Me <br>
 <ul>
-<li>Graduate from Myongji Univ.</li>
-<li>Web Publisher</li>
+<li>명지대 정보통신공학과 졸업</li>
+<li>웹 퍼블리셔</li>
 </ul>
 
 ### 📃 Certificate<br>
 <ul>
-<li>웹디자인기능사</li>
-<li>정보처리기사(실기 진행중)</li>
+<li>웹 디자인 기능사</li>
+<li>정보 처리 기사(실기 진행중)</li>
 </ul>
 
 ### 😄 Studying  <br>
