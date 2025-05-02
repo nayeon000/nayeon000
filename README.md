@@ -14,8 +14,7 @@
 
 ### 📃 Certificate<br>
 <ul>
-<li>웹 디자인 기능사</li>
-<li>정보 처리 기사(실기 진행중)</li>
+
 </ul>
 
 ### 😄 Studying  <br>
